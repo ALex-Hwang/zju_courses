@@ -1,0 +1,27 @@
+AlexHwang
+Math 99
+DataStructure 91
+PE 92
+ads 97
+oop 99
+-1 -1
+MaxAlex
+Chinese 89
+English 97
+fds 29
+French 99
+Germany 100
+-1 -1
+MaryAllen
+Korean 89
+Politics 100
+Psychology 89
+Football 59
+-1 -1
+VeraWu
+English 100
+French 100
+Economics 100
+Baseball 99
+-1 -1
+quit

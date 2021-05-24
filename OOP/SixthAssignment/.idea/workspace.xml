@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SixthAssignment" targetName="SixthAssignment" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21c3fb8f-c7f2-40b9-8273-9b1c89e7e6e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c1lSGUD4yP2swRglMwZzmqyWTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SixthAssignment" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SixthAssignment" TARGET_NAME="SixthAssignment" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SixthAssignment" RUN_TARGET_NAME="SixthAssignment">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21c3fb8f-c7f2-40b9-8273-9b1c89e7e6e5" name="Default Changelist" comment="" />
+      <created>1589703978619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589703978619</updated>
+      <workItem from="1589703980493" duration="338000" />
+      <workItem from="1589707547554" duration="386000" />
+      <workItem from="1589773864201" duration="2353000" />
+      <workItem from="1589784380254" duration="482000" />
+      <workItem from="1589784878667" duration="7940000" />
+    </task>
+    <task id="LOCAL-00001" summary="a simple test">
+      <created>1589774970525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589774970525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="--version 0.1">
+      <created>1589806980411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589806980411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="--version 0.2&#10;complete the first test">
+      <created>1589808395160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589808395160</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a simple test" />
+    <MESSAGE value="--version 0.1" />
+    <MESSAGE value="--version 0.2&#10;complete the first test" />
+    <option name="LAST_COMMIT_MESSAGE" value="--version 0.2&#10;complete the first test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="955" y="417" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589791876858">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="955" y="417" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1589791876858" />
+    <state x="938" y="324" key="CommitChangelistDialog2" timestamp="1589808395011">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="938" y="324" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1589808395011" />
+    <state width="2510" height="507" key="GridCell.Tab.0.bottom" timestamp="1589962987820">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589962987820" />
+    <state width="2510" height="412" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589808339798" />
+    <state width="2510" height="507" key="GridCell.Tab.0.center" timestamp="1589962987819">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589962987819" />
+    <state width="2510" height="412" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589808339797" />
+    <state width="2510" height="507" key="GridCell.Tab.0.left" timestamp="1589962987816">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589962987816" />
+    <state width="2510" height="412" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589808339796" />
+    <state width="2510" height="507" key="GridCell.Tab.0.right" timestamp="1589962987819">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589962987819" />
+    <state width="2510" height="412" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589808339798" />
+    <state width="2510" height="507" key="GridCell.Tab.1.bottom" timestamp="1589962987823">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589962987823" />
+    <state width="2510" height="507" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589794494434" />
+    <state width="2510" height="507" key="GridCell.Tab.1.center" timestamp="1589962987822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589962987822" />
+    <state width="2510" height="507" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589794494432" />
+    <state width="2510" height="507" key="GridCell.Tab.1.left" timestamp="1589962987821">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589962987821" />
+    <state width="2510" height="507" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589794494432" />
+    <state width="2510" height="507" key="GridCell.Tab.1.right" timestamp="1589962987822">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="2510" height="507" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589962987822" />
+    <state width="2510" height="507" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589794494433" />
+    <state x="811" y="359" key="SettingsEditor" timestamp="1589791618798">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="811" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1589791618798" />
+    <state x="1036" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589806942175">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1036" y="626" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440@0.0.2560.1440" timestamp="1589806942175" />
+  </component>
+</project>

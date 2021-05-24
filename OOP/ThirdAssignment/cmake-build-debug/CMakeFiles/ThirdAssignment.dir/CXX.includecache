@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/helix/Coding/C++/ThirdAssignment/Room.cpp
+Room.h
+/Users/helix/Coding/C++/ThirdAssignment/Room.h
+iostream
+-
+map
+-
+
+/Users/helix/Coding/C++/ThirdAssignment/Room.h
+iostream
+-
+vector
+-
+string
+-
+map
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/helix/Coding/C++/FifthAssignment/fraction.cpp
+fraction.h
+/Users/helix/Coding/C++/FifthAssignment/fraction.h
+cmath
+-
+
+/Users/helix/Coding/C++/FifthAssignment/fraction.h
+iostream
+-
+string
+-
+algorithm
+-
+
+/Users/helix/Coding/C++/FifthAssignment/main.cpp
+fraction.h
+/Users/helix/Coding/C++/FifthAssignment/fraction.h
+

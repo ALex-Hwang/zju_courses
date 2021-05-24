@@ -1,0 +1,11 @@
+<serialization>
+    <UserDefinedType>
+        <idx val="20" />
+        <name val="haha" />
+        <data>
+            <element val="2" />
+            <element val="2" />
+            <element val="21324.3" />
+        </data>
+    </UserDefinedType>
+</serialization>

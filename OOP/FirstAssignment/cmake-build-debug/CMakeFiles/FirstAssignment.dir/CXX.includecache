@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/helix/Coding/C++/FirstAssignment/main.cpp
+student.h
+/Users/helix/Coding/C++/FirstAssignment/student.h
+iostream
+-
+
+/Users/helix/Coding/C++/FirstAssignment/student.cpp
+student.h
+/Users/helix/Coding/C++/FirstAssignment/student.h
+iostream
+-
+
+/Users/helix/Coding/C++/FirstAssignment/student.h
+string
+-
+

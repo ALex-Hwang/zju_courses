@@ -1,0 +1,45 @@
+{% extends "framework.html" %}
+{% block content %}
+<div class = "container-fluid">
+  <div class = "row">
+<div class="col-sm-3 col-md-2" style="
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; 
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;">
+<div class="list-group" style = "text-align: center">
+  <a href="{{ url_for('population_admin.index') }}" class="list-group-item active">主页</a>
+  <a href="{{ url_for('population_admin.population') }}" class="list-group-item">流动更新</a>
+  <a href="{{ url_for('population_admin.information') }}" class="list-group-item">资讯更新</a>
+  <a href="{{ url_for('population_admin.comments') }}" class="list-group-item">评论监控</a>
+</div>
+</div>
+
+<div class="col-sm-6  col-md-8 main">
+  <ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">操作提示</a>
+  </li>
+  </ul>
+  <br>
+  <div class="jumbotron">
+    <h1 class="display-4">{{notice}}</h1>
+    <hr class="my-4">
+    <p class="lead">
+      <a class="btn btn-outline-info btn-lg" href="{{URL}}" role="button">返回</a>
+    </p>
+  </div>
+</div>
+  
+
+<div class="col-sm-3 col-md-2">
+</div>
+  </div>
+</div>
+
+{% endblock content %}

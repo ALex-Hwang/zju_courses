@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FifthAssignment" targetName="FifthAssignment" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41fe2f42-8896-4a5b-bfe7-0f1c60b3d9f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SixthAssignment/Vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SixthAssignment/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/CMakeFiles/SixthAssignment.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/SixthAssignment.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/cmake-build-debug/SixthAssignment.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../SixthAssignment/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SixthAssignment/vector.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bZVcayyy9EVDI5jMQLveN9U3Yq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FifthAssignment" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FifthAssignment" TARGET_NAME="FifthAssignment" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FifthAssignment" RUN_TARGET_NAME="FifthAssignment">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41fe2f42-8896-4a5b-bfe7-0f1c60b3d9f6" name="Default Changelist" comment="" />
+      <created>1588839682081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588839682081</updated>
+      <workItem from="1588839684314" duration="12408000" />
+      <workItem from="1589031850784" duration="200000" />
+      <workItem from="1589034850850" duration="7825000" />
+      <workItem from="1589097334261" duration="1061000" />
+      <workItem from="1589098592446" duration="252000" />
+      <workItem from="1589703640755" duration="296000" />
+      <workItem from="1589784418621" duration="2027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1589098856322">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589098856322" />
+    <state width="2508" height="505" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130786" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1589098856320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589098856320" />
+    <state width="2508" height="505" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130785" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1589098856320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589098856320" />
+    <state width="2508" height="505" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130785" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1589098856321">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589098856321" />
+    <state width="2508" height="505" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130786" />
+    <state width="1396" height="301" key="GridCell.Tab.1.bottom" timestamp="1589098399914">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="301" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589098399914" />
+    <state width="2508" height="505" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130787" />
+    <state width="1396" height="301" key="GridCell.Tab.1.center" timestamp="1589098399913">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="301" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589098399913" />
+    <state width="2508" height="505" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130787" />
+    <state width="1396" height="301" key="GridCell.Tab.1.left" timestamp="1589098399912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="301" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589098399912" />
+    <state width="2508" height="505" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130786" />
+    <state width="1396" height="301" key="GridCell.Tab.1.right" timestamp="1589098399913">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="301" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589098399913" />
+    <state width="2508" height="505" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1589077130787" />
+    <state x="211" y="3" key="SettingsEditor" timestamp="1589097355658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="211" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589097355658" />
+    <state x="811" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1589027629783" />
+  </component>
+</project>

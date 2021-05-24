@@ -1,0 +1,13 @@
+go east
+go west
+go up
+go east
+go east
+go west
+go west
+go down
+go east
+go east
+go west
+go west
+

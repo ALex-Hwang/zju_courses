@@ -1,0 +1,70 @@
+.Teachers{
+    background-color:rgba(38,152,255,0.15);
+    height: 150px;
+    align-items: center;
+}
+.Img{
+    margin-top: 50px;
+}
+.coursenum{
+    margin-top:75px;
+}
+.Namefont{
+    font-weight: bold;
+}
+.studentmenu{
+    margin-top: 5px;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-weight: bold;
+}
+.carddiv{
+    margin-top: 10px;
+    margin-left:175px;
+    margin-right: 175px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+.coursetable{
+    table-layout: fixed;
+    height: 30px;
+}
+.coursetable td{
+    text-align: center;
+}
+.table{
+    margin-top:20px;
+    margin-left: 175px;
+    margin-right: 175px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+.notice{
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+.info{
+    background-color: rgba(223, 223, 223, 0.78);
+    margin-top: 10px;
+}
+.pageheader {
+    margin-top: 30px;
+    border: 1px solid rgb(235, 237, 240);
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    margin-left: 175px;
+    margin-right: 175px;
+  }

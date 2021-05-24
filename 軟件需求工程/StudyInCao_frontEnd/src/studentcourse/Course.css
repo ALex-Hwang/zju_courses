@@ -1,0 +1,81 @@
+.CourseRec{
+    width: 860px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    position: absolute;
+}
+
+.title{
+    font-size: medium;
+}
+
+.table{
+    margin-top:20px;
+    margin-left: 175px;
+    margin-right: 175px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0 3px 3px #c8c8c8 ;
+    box-shadow:0 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+
+.collapsediv{
+    margin-top:20px;
+    margin-left: 175px;
+    margin-right: 175px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+
+.topbutton{
+    margin-top:20px;
+    margin-left: 175px;
+    margin-right: 175px;
+    padding: 10px;
+}
+
+.notice{
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 10px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+    padding: 10px;
+}
+
+.returnbutton{
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    -webkit-box-shadow:0px 3px 3px #c8c8c8 ;
+    -moz-box-shadow:0px 3px 3px #c8c8c8 ;
+    box-shadow:0px 3px 3px #c8c8c8 ;
+}
+
+.content{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.time{
+    background-color: rgba(223, 223, 223, 0.78);
+    margin-top: 20px;
+    padding:20px;
+    margin-bottom: 20px;
+}

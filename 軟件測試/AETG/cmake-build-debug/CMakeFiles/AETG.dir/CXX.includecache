@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/helix/Coding/AETG/func.h
+iostream
+-
+map
+-
+vector
+-
+string
+-
+map
+-
+unordered_map
+-
+string
+-
+algorithm
+-
+
+/Users/helix/Coding/AETG/main.cpp
+fstream
+-
+func.h
+/Users/helix/Coding/AETG/func.h
+utility.h
+/Users/helix/Coding/AETG/utility.h
+
+/Users/helix/Coding/AETG/utility.h
+iostream
+-
+vector
+-
+string
+-
+

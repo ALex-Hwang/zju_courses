@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/helix/Coding/C++/FourthAssignment/diary.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+map
+-
+
+/Users/helix/Coding/C++/FourthAssignment/pdlist.cpp
+diary.h
+/Users/helix/Coding/C++/FourthAssignment/diary.h
+
